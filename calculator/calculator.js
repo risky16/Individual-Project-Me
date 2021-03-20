@@ -32,3 +32,4 @@ btn.addEventListener ('click', function () {
 	// Set content of HTML element.
 	rlt.innerHTML = answer;
 });
+
