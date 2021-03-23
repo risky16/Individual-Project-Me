@@ -5,7 +5,7 @@
 
 1. A header
 
-2. A main section (ex: self introduction) :octocat:
+2. A main section (ex: self introduction) 
 
 3. 1 extra sections (ex: education and work experience)
 
